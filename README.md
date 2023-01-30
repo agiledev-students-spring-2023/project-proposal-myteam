@@ -4,7 +4,7 @@
 Ian Nacke
 
 ### What and Why
-The Desert is an augmented reality experience that transports my friends to another world. The project makes the user's phone a window into a world without any buildings. Users would be able to look through their phones at any time and see a desert landscape that follows the topography of the real world. The user would hear sounds of wind and sand, and the environment would be lit by a day night cycle that reflects the current irl time. The Desert reframes the smart phone experience as a calm, meditative one rather than a fast-paced, goal oriented one.
+The Desert is an augmented reality experience that transports users to another world. The project makes the user's phone a window into a world without any buildings. Users would be able to look through their phones at any time and see a desert landscape that follows the topography of the real world. The user would hear sounds of wind and sand, and the environment would be lit by a day night cycle that reflects the current irl time. The Desert reframes the smart phone experience as a calm, meditative one rather than a fast-paced, goal oriented one.
 
 ### For Whom?
 The project is open-ended and artistic. As someone who was inspired by artistic video games as a kid, I want this project to inspire children to see the potential of art and technology. I want this app to be accessible for my friends and family who are not proficient with technology or video games.
