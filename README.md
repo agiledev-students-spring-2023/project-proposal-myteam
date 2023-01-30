@@ -1,27 +1,16 @@
-# Project Title
-## EkiTracker
-
 # Project Proposal
-
-EkiTracker is for people who want to get into running but don't know where to start, named after the Hakone Ekiden, one of the most prominent college racing competitions. Enjoying running requires lifestyle changes and preparation, and this app will guide users through that process. Users can set a date and time when they plan to run, and the app will guide them through the pre-run, during-run and post-run process to make sure that new runners are prepared and safe. The app will potentially keep track of miles logged on shoes and notify the user when it's time to get new shoes. It could also log basic data such as personal records, total miles run, and weekly streaks to encourage continued running.
-
-### Before the Run
-EkiTracker estimates how much water the user needs to drink and reminds them starting the day before their run. Prior to running, the app should guide the user through stretching to prevent injury.
-
-### The Run
-The user can select from a set of basic guided runs (ie. tempo run, long run, basic run, easy run, interval training).
-
-### After the Run
-EkiTracker suggests post-run stretches, potentially recommends post-run meals, and how long to rest before running again.
-
-## Team
+## The Desert
+### Team
 Ian Nacke
 
-## Target Audience
-This app is meant to be a gateway into the running community which has all the information a beginner needs to start running. As someone who has gotten into running recently, many of this app's features are attempting to teach people lessons I learned the hard way.
+### What and Why
+The Desert is an augmented reality experience that transports my friends to another world. The project makes the user's phone a window into a world without any buildings. Users would be able to look through their phones at any time and see a desert landscape that follows the topography of the real world. The user would hear sounds of wind and sand, and the environment would be lit by a day night cycle that reflects the current irl time. The Desert reframes the smart phone experience as a calm, meditative one rather than a fast-paced, goal oriented one.
 
-## How?
-This project works best as a mobile app. Hydration reminders would fit in on a mobile device where people are familiar with recieving notifications. Phones have GPS and people bring their phones everywhere, making it suitable for run tracking. Other features such as stretching guides, scheduled runs, and personal data work best on a mobile device where an internet connection is not required, and activities can be done anywhere at any time.
+### For Whom?
+The project is open-ended and artistic. As someone who was inspired by artistic video games as a kid, I want this project to inspire children to see the potential of art and technology. I want this app to be accessible for my friends and family who are not proficient with technology or video games.
 
-## Scope
-There are many running apps already out there that log personal stats, have social features, and record health data. These features could easily snowball, but are also tangential to the point of this project, which is to consolidate all the information a beginner needs to start running for the first time. Because many running apps already exist, EkiTracker can focus on the core features of pre-run, during-run and post-run guidance.
+### How?
+The project would use the geographical topology data at the user's GPS location to generate a landscape matching the user's surroundings, but without buildings or other features. Using time (and possibly weather) information, the scene can be lit according to the conditions in the real world to strengthen the connection between the real world and the virtual one.  
+
+### Scope
+There are many elements of the natural world that are challenging to replicate in a virtual space, especially because it has to be done procedurally (to decorate the infinite possible locations in the world that this app could be used in). To avoid this complexity, the landscape should be strictly desert. A desert is a fitting immersive aesthetic, with long flat expanses that contrast the tall buildings and obstructions surrounding us in the real world. In a desert environment, we can focus more energy on connecting the virtual world to the real world rather than on making an aesthetically pleasing virtual world. 
